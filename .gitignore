@@ -6,7 +6,7 @@
 
 # dependencies
 node_modules
-node_modules.nosync
+node_modules.tmp
 .pnp
 .pnp.js
 
